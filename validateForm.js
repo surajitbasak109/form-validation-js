@@ -5,7 +5,6 @@ window.addEventListener('load', function () {
 	{
 		formElm.addEventListener('submit', validateForm);
 	}
-	
 });
 
 
